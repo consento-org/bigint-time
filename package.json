@@ -1,7 +1,7 @@
 {
   "name": "bigint-time",
   "description": "Get the current time in bigint time.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Martin Heidegger <martin.heidegger@gmail.com>",
   "keywords": [
     "nanoseconds",
